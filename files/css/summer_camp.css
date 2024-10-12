@@ -2,3 +2,19 @@
 .image-container {
     background-image: url("https://nurseryschool.wustl.edu/files/2015/03/group-holi.jpg");
 }
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 30px;
+}
+
+.row {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.subhead {
+    font-size: 1.5em;
+}
