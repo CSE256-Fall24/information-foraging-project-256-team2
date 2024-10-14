@@ -28,3 +28,7 @@ main li {
 .classroom-titles{
     font-size: 1.5rem;
 }
+
+.classroom-titles a{
+    color: #a51417;
+}
