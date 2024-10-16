@@ -11,6 +11,13 @@ span {
     box-sizing: border-box;
 }
 
+.sticky {
+    position: fixed;
+    margin-top: 40px;
+    top: 0;
+    z-index: 100;
+}
+
 #mturk-top-banner-span-outer {
     width: 100%;
     padding: 5px 20px 5px 10px;

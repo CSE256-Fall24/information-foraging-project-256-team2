@@ -1,2 +1,11 @@
 @import url("common.css");
 @import url("accordian.css");
+
+main li {
+    font-size: 1.15em;
+    margin-bottom: 1em;
+}
+
+.panel {
+    padding: 20px 40px;
+}
